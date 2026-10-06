@@ -1,0 +1,16 @@
+date_range:
+  start: "2022-01-01"
+  end: "2026-10-02"          # 2026-10-05 row is partial and excluded
+market_benchmark: SPY
+tickers:
+  exposed: [CACI, SAIC, LDOS, BAH, PSN]
+  control: [ACN, EPAM, CTSH]
+snapshots: {tz: America/New_York, close: "16:00", open: "09:30", max_ffill_hours: 12, max_kalshi_spread: 0.10}
+kalshi:
+  base_url: https://api.elections.kalshi.com/trade-api/v2
+  history_endpoint: /historical/markets/{ticker}/candlesticks
+polymarket:
+  gamma_url: https://gamma-api.polymarket.com
+  clob_url: https://clob.polymarket.com
+events_file: data/processed/events.csv
+exposure_file: data/processed/exposure_updated.csv

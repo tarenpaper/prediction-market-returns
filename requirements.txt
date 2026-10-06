@@ -1,0 +1,7 @@
+pandas
+requests
+yfinance
+statsmodels
+scikit-learn
+matplotlib
+pyyaml

@@ -1,0 +1,241 @@
+event_ids,venue,contract_id,group,contract_open,contract_result,question
+E01;E02,kalshi,GOVSHUTLENGTH-23DEC31-T7,GOVSHUTLENGTH-23DEC31,2023-01-24,no,"Will the government be shut down more than 7 between Jan 24, 2023 and Dec 31, 2023?"
+E01;E02,kalshi,GOVSHUTLENGTH-23DEC31-T35,GOVSHUTLENGTH-23DEC31,2023-01-24,no,"Will the government be shut down more than 35 between Jan 24, 2023 and Dec 31, 2023?"
+E01;E02,kalshi,GOVSHUTLENGTH-23DEC31-T28,GOVSHUTLENGTH-23DEC31,2023-01-24,no,"Will the government be shut down more than 28 between Jan 24, 2023 and Dec 31, 2023?"
+E01;E02,kalshi,GOVSHUTLENGTH-23DEC31-T21,GOVSHUTLENGTH-23DEC31,2023-01-24,no,"Will the government be shut down more than 21 between Jan 24, 2023 and Dec 31, 2023?"
+E01;E02,kalshi,GOVSHUTLENGTH-23DEC31-T14,GOVSHUTLENGTH-23DEC31,2023-01-24,no,"Will the government be shut down more than 14 between Jan 24, 2023 and Dec 31, 2023?"
+E01;E02,kalshi,GOVSHUTLENGTH-23DEC31-T0,GOVSHUTLENGTH-23DEC31,2023-01-24,no,"Will the government be shut down more than 0 between Jan 24, 2023 and Dec 31, 2023?"
+E03;E04;E05;E06;E07,kalshi,GOVSHUTLENGTH-24JUN30-T7,GOVSHUTLENGTH-24JUN30,2023-12-01,no,"Will the government be shut down more than 7 days between Dec 1, 2023 and Jun 30, 2024?"
+E03;E04;E05;E06;E07,kalshi,GOVSHUTLENGTH-24JUN30-T5,GOVSHUTLENGTH-24JUN30,2023-12-01,no,"Will the government be shut down more than 5 days between Dec 1, 2023 and Jun 30, 2024?"
+E03;E04;E05;E06;E07,kalshi,GOVSHUTLENGTH-24JUN30-T3,GOVSHUTLENGTH-24JUN30,2023-12-01,no,"Will the government be shut down more than 3 days between Dec 1, 2023 and Jun 30, 2024?"
+E03;E04;E05;E06;E07,kalshi,GOVSHUTLENGTH-24JUN30-T14,GOVSHUTLENGTH-24JUN30,2023-12-01,no,"Will the government be shut down more than 14 days between Dec 1, 2023 and Jun 30, 2024?"
+E03;E04;E05;E06;E07,kalshi,GOVSHUTLENGTH-24JUN30-T10,GOVSHUTLENGTH-24JUN30,2023-12-01,no,"Will the government be shut down more than 10 days between Dec 1, 2023 and Jun 30, 2024?"
+E03;E04;E05;E06;E07,kalshi,GOVSHUTLENGTH-24JUN30-T0,GOVSHUTLENGTH-24JUN30,2023-12-01,no,"Will the government be shut down more than 0 days between Dec 1, 2023 and Jun 30, 2024?"
+E08;E09,kalshi,KXGOVSHUTLENGTH-25JUL01-T7,KXGOVSHUTLENGTH-25JUL01,2024-12-20,no,"Will the government be shut down more than 7 between Dec 21, 2024 and Jul 1, 2025?"
+E08;E09,kalshi,KXGOVSHUTLENGTH-25JUL01-T35,KXGOVSHUTLENGTH-25JUL01,2024-12-20,no,"Will the government be shut down more than 35 between Dec 21, 2024 and Jul 1, 2025?"
+E08;E09,kalshi,KXGOVSHUTLENGTH-25JUL01-T28,KXGOVSHUTLENGTH-25JUL01,2024-12-20,no,"Will the government be shut down more than 28 between Dec 21, 2024 and Jul 1, 2025?"
+E08;E09,kalshi,KXGOVSHUTLENGTH-25JUL01-T21,KXGOVSHUTLENGTH-25JUL01,2024-12-20,no,"Will the government be shut down more than 21 between Dec 21, 2024 and Jul 1, 2025?"
+E08;E09,kalshi,KXGOVSHUTLENGTH-25JUL01-T14,KXGOVSHUTLENGTH-25JUL01,2024-12-20,no,"Will the government be shut down more than 14 between Dec 21, 2024 and Jul 1, 2025?"
+E08;E09,kalshi,KXGOVSHUTLENGTH-25JUL01-T0,KXGOVSHUTLENGTH-25JUL01,2024-12-20,no,"Will the government be shut down more than 0 between Dec 21, 2024 and Jul 1, 2025?"
+E10,kalshi,KXGOVSHUTLENGTH-26JAN01-54D,KXGOVSHUTLENGTH-26JAN01,2025-10-31,no,Will the federal government shut down for more than 54 days?
+E10,kalshi,KXGOVSHUTLENGTH-26JAN01-53D,KXGOVSHUTLENGTH-26JAN01,2025-10-31,no,Will the federal government shut down for more than 53 days?
+E10,kalshi,KXGOVSHUTLENGTH-26JAN01-52D,KXGOVSHUTLENGTH-26JAN01,2025-10-31,no,Will the federal government shut down for more than 52 days?
+E10,kalshi,KXGOVSHUTLENGTH-26JAN01-51D,KXGOVSHUTLENGTH-26JAN01,2025-10-31,no,Will the federal government shut down for more than 51 days?
+E10,kalshi,KXGOVSHUTLENGTH-26JAN01-49D,KXGOVSHUTLENGTH-26JAN01,2025-10-31,no,Will the federal government shut down for more than 49 days?
+E10,kalshi,KXGOVSHUTLENGTH-26JAN01-48D,KXGOVSHUTLENGTH-26JAN01,2025-10-31,no,Will the federal government shut down for more than 48 days?
+E10,kalshi,KXGOVSHUTLENGTH-26JAN01-47D,KXGOVSHUTLENGTH-26JAN01,2025-10-31,no,Will the federal government shut down for more than 47 days?
+E10,kalshi,KXGOVSHUTLENGTH-26JAN01-46D,KXGOVSHUTLENGTH-26JAN01,2025-10-31,no,Will the federal government shut down for more than 46 days?
+E10,kalshi,KXGOVSHUTLENGTH-26JAN01-44D,KXGOVSHUTLENGTH-26JAN01,2025-10-31,no,Will the federal government shut down for more than 44 days?
+E10,kalshi,KXGOVSHUTLENGTH-26JAN01-43D,KXGOVSHUTLENGTH-26JAN01,2025-10-31,no,Will the federal government shut down for more than 43 days?
+E10,kalshi,KXGOVSHUTLENGTH-26JAN01-42D,KXGOVSHUTLENGTH-26JAN01,2025-10-31,yes,Will the federal government shut down for more than 42 days?
+E10,kalshi,KXGOVSHUTLENGTH-26JAN01-41D,KXGOVSHUTLENGTH-26JAN01,2025-10-31,yes,Will the federal government shut down for more than 41 days?
+E10,kalshi,KXGOVSHUTLENGTH-26JAN01-80D,KXGOVSHUTLENGTH-26JAN01,2025-10-29,no,Will the federal government shut down for more than 80 days?
+E10,kalshi,KXGOVSHUTLENGTH-26JAN01-65D,KXGOVSHUTLENGTH-26JAN01,2025-10-29,no,Will the federal government shut down for more than 65 days?
+E10,kalshi,KXGOVSHUTLENGTH-26JAN01-39D,KXGOVSHUTLENGTH-26JAN01,2025-10-29,yes,Will the federal government shut down for more than 39 days?
+E10,kalshi,KXGOVSHUTLENGTH-26JAN01-38D,KXGOVSHUTLENGTH-26JAN01,2025-10-29,yes,Will the federal government shut down for more than 38 days?
+E10,kalshi,KXGOVSHUTLENGTH-26JAN01-37D,KXGOVSHUTLENGTH-26JAN01,2025-10-29,yes,Will the federal government shut down for more than 37 days?
+E10,kalshi,KXGOVSHUTLENGTH-26JAN01-36D,KXGOVSHUTLENGTH-26JAN01,2025-10-29,yes,Will the federal government shut down for more than 36 days?
+E10,kalshi,KXGOVSHUTLENGTH-26JAN01-70D,KXGOVSHUTLENGTH-26JAN01,2025-10-20,no,Will the federal government shut down for more than 70 days?
+E10,kalshi,KXGOVSHUTLENGTH-26JAN01-55D,KXGOVSHUTLENGTH-26JAN01,2025-10-20,no,Will the federal government shut down for more than 55 days?
+E10,kalshi,KXGOVSHUTLENGTH-26JAN01-34D,KXGOVSHUTLENGTH-26JAN01,2025-10-20,yes,Will the federal government shut down for more than 34 days?
+E10,kalshi,KXGOVSHUTLENGTH-26JAN01-33D,KXGOVSHUTLENGTH-26JAN01,2025-10-20,yes,Will the federal government shut down for more than 33 days?
+E10,kalshi,KXGOVSHUTLENGTH-26JAN01-32D,KXGOVSHUTLENGTH-26JAN01,2025-10-20,yes,Will the federal government shut down for more than 32 days?
+E10,kalshi,KXGOVSHUTLENGTH-26JAN01-31D,KXGOVSHUTLENGTH-26JAN01,2025-10-20,yes,Will the federal government shut down for more than 31 days?
+E10,kalshi,KXGOVSHUTLENGTH-26JAN01-29D,KXGOVSHUTLENGTH-26JAN01,2025-10-20,yes,Will the federal government shut down for more than 29 days?
+E10,kalshi,KXGOVSHUTLENGTH-26JAN01-28D,KXGOVSHUTLENGTH-26JAN01,2025-10-20,yes,Will the federal government shut down for more than 28 days?
+E10,kalshi,KXGOVSHUTLENGTH-26JAN01-27D,KXGOVSHUTLENGTH-26JAN01,2025-10-20,yes,Will the federal government shut down for more than 27 days?
+E10,kalshi,KXGOVSHUTLENGTH-26JAN01-26D,KXGOVSHUTLENGTH-26JAN01,2025-10-20,yes,Will the federal government shut down for more than 26 days?
+E10,kalshi,KXGOVSHUTLENGTH-26JAN01-60D,KXGOVSHUTLENGTH-26JAN01,2025-10-11,no,Will the federal government shut down for more than 60 days?
+E10,kalshi,KXGOVSHUTLENGTH-26JAN01-50D,KXGOVSHUTLENGTH-26JAN01,2025-10-11,no,Will the federal government shut down for more than 50 days?
+E10,kalshi,KXGOVSHUTLENGTH-26JAN01-45D,KXGOVSHUTLENGTH-26JAN01,2025-10-11,no,Will the federal government shut down for more than 45 days?
+E10,kalshi,KXGOVSHUTLENGTH-26JAN01-24D,KXGOVSHUTLENGTH-26JAN01,2025-10-11,yes,Will the federal government shut down for more than 24 days?
+E10,kalshi,KXGOVSHUTLENGTH-26JAN01-23D,KXGOVSHUTLENGTH-26JAN01,2025-10-11,yes,Will the federal government shut down for more than 23 days?
+E10,kalshi,KXGOVSHUTLENGTH-26JAN01-22D,KXGOVSHUTLENGTH-26JAN01,2025-10-11,yes,Will the federal government shut down for more than 22 days?
+E10,kalshi,KXGOVSHUTLENGTH-26JAN01-21D,KXGOVSHUTLENGTH-26JAN01,2025-10-11,yes,Will the federal government shut down for more than 21 days?
+E10,kalshi,KXGOVSHUTLENGTH-26JAN01-19D,KXGOVSHUTLENGTH-26JAN01,2025-10-11,yes,Will the federal government shut down for more than 19 days?
+E10,kalshi,KXGOVSHUTLENGTH-26JAN01-18D,KXGOVSHUTLENGTH-26JAN01,2025-10-11,yes,Will the federal government shut down for more than 18 days?
+E10,kalshi,KXGOVSHUTLENGTH-26JAN01-17D,KXGOVSHUTLENGTH-26JAN01,2025-10-11,yes,Will the federal government shut down for more than 17 days?
+E10,kalshi,KXGOVSHUTLENGTH-26JAN01-16D,KXGOVSHUTLENGTH-26JAN01,2025-10-11,yes,Will the federal government shut down for more than 16 days?
+E10,kalshi,KXGOVSHUTLENGTH-26JAN01-40D,KXGOVSHUTLENGTH-26JAN01,2025-10-03,yes,Will the federal government shut down for more than 40 days?
+E10,kalshi,KXGOVSHUTLENGTH-26JAN01-30D,KXGOVSHUTLENGTH-26JAN01,2025-10-03,yes,Will the federal government shut down for more than 30 days?
+E10,kalshi,KXGOVSHUTLENGTH-26JAN01-25D,KXGOVSHUTLENGTH-26JAN01,2025-10-03,yes,Will the federal government shut down for more than 25 days?
+E10,kalshi,KXGOVSHUTLENGTH-26JAN01-20D,KXGOVSHUTLENGTH-26JAN01,2025-10-03,yes,Will the federal government shut down for more than 20 days?
+E10,kalshi,KXGOVSHUTLENGTH-26JAN01-14D,KXGOVSHUTLENGTH-26JAN01,2025-10-03,yes,Will the federal government shut down for more than 14 days?
+E10,kalshi,KXGOVSHUTLENGTH-26JAN01-13D,KXGOVSHUTLENGTH-26JAN01,2025-10-03,yes,Will the federal government shut down for more than 13 days?
+E10,kalshi,KXGOVSHUTLENGTH-26JAN01-12D,KXGOVSHUTLENGTH-26JAN01,2025-10-03,yes,Will the federal government shut down for more than 12 days?
+E10,kalshi,KXGOVSHUTLENGTH-26JAN01-11D,KXGOVSHUTLENGTH-26JAN01,2025-10-03,yes,Will the federal government shut down for more than 11 days?
+E10,kalshi,KXGOVSHUTLENGTH-26JAN01-9D,KXGOVSHUTLENGTH-26JAN01,2025-10-03,yes,Will the federal government shut down for more than 9 days?
+E10,kalshi,KXGOVSHUTLENGTH-26JAN01-8D,KXGOVSHUTLENGTH-26JAN01,2025-10-03,yes,Will the federal government shut down for more than 8 days?
+E10,kalshi,KXGOVSHUTLENGTH-26JAN01-7D,KXGOVSHUTLENGTH-26JAN01,2025-10-03,yes,Will the federal government shut down for more than 7 days?
+E10,kalshi,KXGOVSHUTLENGTH-26JAN01-6D,KXGOVSHUTLENGTH-26JAN01,2025-10-03,yes,Will the federal government shut down for more than 6 days?
+E10,kalshi,KXGOVSHUTLENGTH-26JAN01-15D,KXGOVSHUTLENGTH-26JAN01,2025-10-01,yes,Will the federal government shut down for more than 15 days?
+E10,kalshi,KXGOVSHUTLENGTH-26JAN01-4D,KXGOVSHUTLENGTH-26JAN01,2025-10-01,yes,Will the federal government shut down for more than 4 days?
+E10,kalshi,KXGOVSHUTLENGTH-26JAN01-2D,KXGOVSHUTLENGTH-26JAN01,2025-10-01,yes,Will the federal government shut down for more than 2 days?
+E10,kalshi,KXGOVSHUTLENGTH-26JAN01-1D,KXGOVSHUTLENGTH-26JAN01,2025-10-01,yes,Will the federal government shut down for more than 1 days?
+E10,kalshi,KXGOVSHUTLENGTH-26JAN01-5D,KXGOVSHUTLENGTH-26JAN01,2025-09-05,yes,Will the federal government shut down for more than 5 days?
+E10,kalshi,KXGOVSHUTLENGTH-26JAN01-3D,KXGOVSHUTLENGTH-26JAN01,2025-09-05,yes,Will the federal government shut down for more than 3 days?
+E10,kalshi,KXGOVSHUTLENGTH-26JAN01-35D,KXGOVSHUTLENGTH-26JAN01,2025-09-05,yes,Will the federal government shut down for more than 35 days?
+E10,kalshi,KXGOVSHUTLENGTH-26JAN01-10D,KXGOVSHUTLENGTH-26JAN01,2025-09-05,yes,Will the federal government shut down for more than 10 days?
+E10,kalshi,KXGOVSHUTLENGTH-26JAN01-0D,KXGOVSHUTLENGTH-26JAN01,2025-09-05,yes,Will the federal government shut down for more than 0 days?
+E11,kalshi,KXGOVSHUTLENGTH-26FEB28-4D,KXGOVSHUTLENGTH-26FEB28,2026-01-31,no,Will the federal government shut down for more than 4 days?
+E11,kalshi,KXGOVSHUTLENGTH-26FEB28-25D,KXGOVSHUTLENGTH-26FEB28,2026-01-25,no,Will the federal government shut down for more than 25 days?
+E11,kalshi,KXGOVSHUTLENGTH-26FEB28-7D,KXGOVSHUTLENGTH-26FEB28,2026-01-25,no,Will the federal government shut down for more than 7 days?
+E11,kalshi,KXGOVSHUTLENGTH-26FEB28-5D,KXGOVSHUTLENGTH-26FEB28,2026-01-25,no,Will the federal government shut down for more than 5 days?
+E11,kalshi,KXGOVSHUTLENGTH-26FEB28-3D,KXGOVSHUTLENGTH-26FEB28,2026-01-25,yes,Will the federal government shut down for more than 3 days?
+E11,kalshi,KXGOVSHUTLENGTH-26FEB28-2D,KXGOVSHUTLENGTH-26FEB28,2026-01-25,yes,Will the federal government shut down for more than 2 days?
+E11,kalshi,KXGOVSHUTLENGTH-26FEB28-1D,KXGOVSHUTLENGTH-26FEB28,2026-01-25,yes,Will the federal government shut down for more than 1 day?
+E11,kalshi,KXGOVSHUTLENGTH-26FEB28-15D,KXGOVSHUTLENGTH-26FEB28,2026-01-25,no,Will the federal government shut down for more than 15 days?
+E11,kalshi,KXGOVSHUTLENGTH-26FEB28-10D,KXGOVSHUTLENGTH-26FEB28,2026-01-25,no,Will the federal government shut down for more than 10 days?
+E12,kalshi,KXGOVTSHUTLENGTH-26FEB07-G95,KXGOVTSHUTLENGTH-26FEB07,2026-04-09,no,"Will the US government be shut down for at least 95 days between Feb 7, 2026 and Dec 31, 2026?"
+E12,kalshi,KXGOVTSHUTLENGTH-26FEB07-G85,KXGOVTSHUTLENGTH-26FEB07,2026-04-09,no,"Will the US government be shut down for at least 85 days between Feb 7, 2026 and Dec 31, 2026?"
+E12,kalshi,KXGOVTSHUTLENGTH-26FEB07-G75,KXGOVTSHUTLENGTH-26FEB07,2026-04-07,yes,"Will the US government be shut down for at least 75 days between Feb 7, 2026 and Dec 31, 2026?"
+E12,kalshi,KXGOVTSHUTLENGTH-26FEB07-G65,KXGOVTSHUTLENGTH-26FEB07,2026-04-07,yes,"Will the US government be shut down for at least 65 days between Feb 7, 2026 and Dec 31, 2026?"
+E12,kalshi,KXGOVTSHUTLENGTH-26FEB07-G300,KXGOVTSHUTLENGTH-26FEB07,2026-03-31,no,"Will the US government be shut down for at least 300 days between Feb 7, 2026 and Dec 31, 2026?"
+E12,kalshi,KXGOVTSHUTLENGTH-26FEB07-G200,KXGOVTSHUTLENGTH-26FEB07,2026-03-31,no,"Will the US government be shut down for at least 200 days between Feb 7, 2026 and Dec 31, 2026?"
+E12,kalshi,KXGOVTSHUTLENGTH-26FEB07-G150,KXGOVTSHUTLENGTH-26FEB07,2026-03-31,no,"Will the US government be shut down for at least 150 days between Feb 7, 2026 and Dec 31, 2026?"
+E12,kalshi,KXGOVTSHUTLENGTH-26FEB07-G140,KXGOVTSHUTLENGTH-26FEB07,2026-03-31,no,"Will the US government be shut down for at least 140 days between Feb 7, 2026 and Dec 31, 2026?"
+E12,kalshi,KXGOVTSHUTLENGTH-26FEB07-G130,KXGOVTSHUTLENGTH-26FEB07,2026-03-31,no,"Will the US government be shut down for at least 130 days between Feb 7, 2026 and Dec 31, 2026?"
+E12,kalshi,KXGOVTSHUTLENGTH-26FEB07-G120,KXGOVTSHUTLENGTH-26FEB07,2026-03-31,no,"Will the US government be shut down for at least 120 days between Feb 7, 2026 and Dec 31, 2026?"
+E12,kalshi,KXGOVTSHUTLENGTH-26FEB07-A110,KXGOVTSHUTLENGTH-26FEB07,2026-03-31,no,"Will the US government be shut down for more than 110 days between Feb 7, 2026 and Dec 31, 2026?"
+E12,kalshi,KXGOVTSHUTLENGTH-26FEB07-G100,KXGOVTSHUTLENGTH-26FEB07,2026-03-06,no,"Will the US government be shut down for at least 100 days between Feb 7, 2026 and Dec 31, 2026?"
+E12,kalshi,KXGOVTSHUTLENGTH-26FEB07-G80,KXGOVTSHUTLENGTH-26FEB07,2026-03-06,no,"Will the US government be shut down for at least 80 days between Feb 7, 2026 and Dec 31, 2026?"
+E12,kalshi,KXGOVTSHUTLENGTH-26FEB07-G70,KXGOVTSHUTLENGTH-26FEB07,2026-03-06,yes,"Will the US government be shut down for at least 70 days between Feb 7, 2026 and Dec 31, 2026?"
+E12,kalshi,KXGOVTSHUTLENGTH-26FEB07-G55,KXGOVTSHUTLENGTH-26FEB07,2026-03-06,yes,"Will the US government be shut down for at least 55 days between Feb 7, 2026 and Dec 31, 2026?"
+E12,kalshi,KXGOVTSHUTLENGTH-26FEB07-G45,KXGOVTSHUTLENGTH-26FEB07,2026-03-06,yes,"Will the US government be shut down for at least 45 days between Feb 7, 2026 and Dec 31, 2026?"
+E12,kalshi,KXGOVTSHUTLENGTH-26FEB07-G43,KXGOVTSHUTLENGTH-26FEB07,2026-02-13,yes,"Will the US government be shut down for at least 43 days between Feb 7, 2026 and Dec 31, 2026?"
+E12,kalshi,KXGOVTSHUTLENGTH-26FEB07-G90,KXGOVTSHUTLENGTH-26FEB07,2026-02-13,no,"Will the US government be shut down for at least 90 days between Feb 7, 2026 and Dec 31, 2026?"
+E12,kalshi,KXGOVTSHUTLENGTH-26FEB07-G60,KXGOVTSHUTLENGTH-26FEB07,2026-02-13,yes,"Will the US government be shut down for at least 60 days between Feb 7, 2026 and Dec 31, 2026?"
+E12,kalshi,KXGOVTSHUTLENGTH-26FEB07-G50,KXGOVTSHUTLENGTH-26FEB07,2026-02-13,yes,"Will the US government be shut down for at least 50 days between Feb 7, 2026 and Dec 31, 2026?"
+E12,kalshi,KXGOVTSHUTLENGTH-26FEB07-G40,KXGOVTSHUTLENGTH-26FEB07,2026-02-13,yes,"Will the US government be shut down for at least 40 days between Feb 7, 2026 and Dec 31, 2026?"
+E12,kalshi,KXGOVTSHUTLENGTH-26FEB07-G35,KXGOVTSHUTLENGTH-26FEB07,2026-02-13,yes,"Will the US government be shut down for at least 35 days between Feb 7, 2026 and Dec 31, 2026?"
+E12,kalshi,KXGOVTSHUTLENGTH-26FEB07-G30,KXGOVTSHUTLENGTH-26FEB07,2026-02-13,yes,"Will the US government be shut down for at least 30 days between Feb 7, 2026 and Dec 31, 2026?"
+E12,kalshi,KXGOVTSHUTLENGTH-26FEB07-G7,KXGOVTSHUTLENGTH-26FEB07,2026-02-06,yes,"Will the US government be shut down for at least 7 days between Feb 7, 2026 and Dec 31, 2026?"
+E12,kalshi,KXGOVTSHUTLENGTH-26FEB07-G5,KXGOVTSHUTLENGTH-26FEB07,2026-02-06,yes,"Will the US government be shut down for at least 5 days between Feb 7, 2026 and Dec 31, 2026?"
+E12,kalshi,KXGOVTSHUTLENGTH-26FEB07-G3,KXGOVTSHUTLENGTH-26FEB07,2026-02-06,yes,"Will the US government be shut down for at least 3 days between Feb 7, 2026 and Dec 31, 2026?"
+E12,kalshi,KXGOVTSHUTLENGTH-26FEB07-G25,KXGOVTSHUTLENGTH-26FEB07,2026-02-06,yes,"Will the US government be shut down for at least 25 days between Feb 7, 2026 and Dec 31, 2026?"
+E12,kalshi,KXGOVTSHUTLENGTH-26FEB07-G20,KXGOVTSHUTLENGTH-26FEB07,2026-02-06,yes,"Will the US government be shut down for at least 20 days between Feb 7, 2026 and Dec 31, 2026?"
+E12,kalshi,KXGOVTSHUTLENGTH-26FEB07-G2,KXGOVTSHUTLENGTH-26FEB07,2026-02-06,yes,"Will the US government be shut down for at least 2 days between Feb 7, 2026 and Dec 31, 2026?"
+E12,kalshi,KXGOVTSHUTLENGTH-26FEB07-G15,KXGOVTSHUTLENGTH-26FEB07,2026-02-06,yes,"Will the US government be shut down for at least 15 days between Feb 7, 2026 and Dec 31, 2026?"
+E12,kalshi,KXGOVTSHUTLENGTH-26FEB07-G10,KXGOVTSHUTLENGTH-26FEB07,2026-02-06,yes,"Will the US government be shut down for at least 10 days between Feb 7, 2026 and Dec 31, 2026?"
+E12,kalshi,KXGOVTSHUTLENGTH-26FEB07-G1,KXGOVTSHUTLENGTH-26FEB07,2026-02-06,yes,"Will the US government be shut down for at least 1 days between Feb 7, 2026 and Dec 31, 2026?"
+E10,polymarket,73884279200243731682067758577232491126282692279128934351190790275160157718957,when-will-the-government-shutdown-end,2025-09-30,no,Will the Government shutdown end October 1-2?
+E10,polymarket,79557903544965493582349370906114588037336425755336210403088641304572368165441,when-will-the-government-shutdown-end,2025-09-30,no,Will the Government shutdown end October 3-5?
+E10,polymarket,102353409991138207236913342279665845978485795604419286786657142150963180132116,when-will-the-government-shutdown-end,2025-09-30,no,Will the Government shutdown end October 6-9?
+E10,polymarket,101498431606715342761575953026777430269551601560209286685383560955164321738436,when-will-the-government-shutdown-end,2025-09-30,no,Will the Government shutdown end October 10-14?
+E10,polymarket,63773334683820352784349536046848684795746271894742580290503889771875189995041,when-will-the-government-shutdown-end,2025-09-30,yes,Will the Government shutdown end October 15+?
+E10,polymarket,27156890736280196732588489715763641168233409467310898334226713298051797085826,when-will-the-government-shutdown-end,2025-09-30,no,Will there be No Shutdown?
+E10,polymarket,13130724476179384163228374270864376921777364897641165890988624035370941965484,when-will-the-government-shutdown-end-545,2025-10-06,no,Will the Government shutdown end before October 15?
+E10,polymarket,65978063554798734083668439670689753780747884583014042762905590684207022599946,when-will-the-government-shutdown-end-545,2025-10-06,no,Will the Government shutdown end October 15-18
+E10,polymarket,46305795021827604558329928275761484952876064976054078207321294717161701143465,when-will-the-government-shutdown-end-545,2025-10-06,no,Will the Government shutdown end October 19-22?
+E10,polymarket,52561942431691865941353143879369674660216962756581433022208717936334101014382,when-will-the-government-shutdown-end-545,2025-10-06,no,Will the Government shutdown end October 23-26?
+E10,polymarket,92182441620624534021418745666960782422755134836266495169480398131217945130140,when-will-the-government-shutdown-end-545,2025-10-06,no,Will the Government shutdown end October 27-30?
+E10,polymarket,7417809333047041113383538654616393406229867184295824769725212393626923528445,when-will-the-government-shutdown-end-545,2025-10-06,no,Will the Government shutdown end October 31-November 3?
+E10,polymarket,66281600716773880802753015201294956591448454218578699327801428058257011939378,when-will-the-government-shutdown-end-545,2025-10-06,no,Will the Government shutdown end November 4-7?
+E10,polymarket,34124572068052077909406302056995239675264911172488920973407960367842984448300,when-will-the-government-shutdown-end-545,2025-10-06,no,Will the Government shutdown end November 8-11?
+E10,polymarket,7045107161367241233811523851106536676632348173555291268726302515224841822187,when-will-the-government-shutdown-end-545,2025-10-06,yes,Will the Government shutdown end November 12-15?
+E10,polymarket,59964717011473581387089048234239097005165234934041431203725679550377112731340,when-will-the-government-shutdown-end-545,2025-10-06,no,Will the Government shutdown end November 16 or later?
+E10,polymarket,44257507800288716015064747647941715344632240613152693717752855972620482977613,will-the-government-shutdown-end-by-763,2025-10-17,no,Will the Government shutdown end by October 24?
+E10,polymarket,84071972612626401418842051857149728359402665824759082641799726980708884999393,will-the-government-shutdown-end-by-763,2025-10-17,no,Will the Government shutdown end by October 31?
+E10,polymarket,39915773731521537948114000644491548929308581016386236699032977684925966778417,will-the-government-shutdown-end-by-763,2025-10-17,yes,Will the Government shutdown end by November 15?
+E10,polymarket,33863269898549252781275803678269200480782857182444175052616333799704258288948,will-the-government-shutdown-end-by-763,2025-10-17,yes,Will the Government shutdown end by November 30?
+E10,polymarket,95175238032799526152186987432451977494520482390042729805381695860132653791141,will-the-government-shutdown-end-by-763,2025-10-17,yes,Will the Government shutdown end by December 31?
+E10,polymarket,147361992911948953229473924806964234102654915169357377745596912343182009392,will-the-government-shutdown-end-by-763,2025-10-20,yes,Will the Government shutdown end by January 31?
+E10,polymarket,4197330565296507044702179365093486529141352066835576312869855455105510600907,will-the-government-shutdown-end-by-763,2025-10-27,no,Will the Government shutdown end by November 7?
+E10,polymarket,73395937311306692339855462727935791237345463293895646938166606821925073822983,what-day-will-the-government-shutdown-end,2025-11-10,no,Will the government shutdown end November 9?
+E10,polymarket,47915812080443371336097554967885659954351269832958558504045593252094987118858,what-day-will-the-government-shutdown-end,2025-11-10,no,Will the government shutdown end November 10?
+E10,polymarket,63180324456084138896964901136480196139788004854700828798087417260562751585462,what-day-will-the-government-shutdown-end,2025-11-10,no,Will the government shutdown end November 11?
+E10,polymarket,75569569834906571381645882316168516504337880234085605599894820215533033972960,what-day-will-the-government-shutdown-end,2025-11-10,no,Will the government shutdown end November 12?
+E10,polymarket,17398404674846042629532943087095452701069816613172119438788363956594269928381,what-day-will-the-government-shutdown-end,2025-11-10,yes,Will the government shutdown end November 13?
+E10,polymarket,77802994982116337921503027000995610986562681360298439600066311122102289695809,what-day-will-the-government-shutdown-end,2025-11-10,no,Will the government shutdown end November 14?
+E10,polymarket,70093650178790919497596227606833844944036700493806191051061413859537665859387,what-day-will-the-government-shutdown-end,2025-11-10,no,Will the government shutdown end November 15?
+E10,polymarket,93404521239589317453983236286325756462474483834119246352150149876301751176520,what-day-will-the-government-shutdown-end,2025-11-10,no,Will the government shutdown end November 16?
+E10,polymarket,4400164282626983500954016779732322471198684897168348754745916304906324915244,what-day-will-the-government-shutdown-end,2025-11-10,no,Will the government shutdown end November 17?
+E10,polymarket,82444443719026778576732126652891525907635097062205731745221819170783982446767,what-day-will-the-government-shutdown-end,2025-11-10,no,Will the government shutdown end November 18?
+E10,polymarket,27992381777198411766035648487357431760516834520612177175680060320068568369379,what-day-will-the-government-shutdown-end,2025-11-10,no,Will the government shutdown end November 19?
+E10,polymarket,97870996208973287532114460000695623253315896912413087652343974124546700544000,what-day-will-the-government-shutdown-end,2025-11-10,no,Will the government shutdown end November 20?
+E10,polymarket,51135007366774375060973186227814744746944814554228250236529557882499561765836,what-day-will-the-government-shutdown-end,2025-11-10,no,Will the government shutdown end November 21 or later?
+E10,polymarket,79399546520002716255507496964367612481385896057591100247057339240960732437556,how-many-days-will-the-federal-government-be-shut-down-in-2025,2025-09-16,no,Will the federal government not be shut down in 2025?
+E10,polymarket,72343820862082667625034872513655222930831295953787411269240738725623369529720,how-many-days-will-the-federal-government-be-shut-down-in-2025,2025-09-16,no,Will the federal government be shut down for 1–3 days in 2025?
+E10,polymarket,87349911910194656800992107704365873421990399504425103346444129432747998143957,how-many-days-will-the-federal-government-be-shut-down-in-2025,2025-09-16,no,Will the federal government be shut down for 4–9 days in 2025?
+E10,polymarket,59205262672725447371793887677427313170766487871246296874903941045385502858154,how-many-days-will-the-federal-government-be-shut-down-in-2025,2025-09-16,no,Will the federal government be shut down for 10–29 days in 2025?
+E10,polymarket,52552848934224056816857469289140953604065223085534396171662611273799205417898,how-many-days-will-the-federal-government-be-shut-down-in-2025,2025-09-16,yes,Will the federal government be shut down for 30 or more days in 2025?
+E11,polymarket,77932413699591385582408402058209008716103068377990837601822992291811637364241,how-long-will-the-next-government-shutdown-last,2026-01-24,yes,Will the government shutdown last 1 day or more?
+E11,polymarket,45834992705311952325019110769074251045520613427860944634211713333639342925215,how-long-will-the-next-government-shutdown-last,2026-01-24,yes,Will the government shutdown last 3 days or more?
+E11,polymarket,59504136924064087795648081133235705846655371799758292499235575393658009825596,how-long-will-the-next-government-shutdown-last,2026-01-24,no,Will the government shutdown last 7 days or more?
+E11,polymarket,112139909108928670085933588651092403343948617179385187166440073666455678398436,how-long-will-the-next-government-shutdown-last,2026-01-24,no,Will the government shutdown last 14 days or more?
+E11,polymarket,26609800537692465524771607284115123570169751799662193302165096740333425504635,how-long-will-the-next-government-shutdown-last,2026-01-24,no,Will the government shutdown last 30 days or more?
+E11,polymarket,61714042345592991242650283207041161607044873748774685082589583786302809304151,how-long-will-the-next-government-shutdown-last,2026-01-24,no,Will the government shutdown last 60 days or more?
+E11,polymarket,15290280943272987999018854188861808513105898754228162839276262398880189186740,how-long-will-the-next-government-shutdown-last,2026-01-30,yes,Will the government shutdown last 2 days or more?
+E11,polymarket,65725371253697761962782192914659497151911283155170584494749509449973630951716,how-long-will-the-next-government-shutdown-last,2026-01-30,yes,Will the government shutdown last 4 days or more?
+E11,polymarket,8008742846391096366381429238657491392199916771102623264605530168655505543184,how-long-will-the-next-government-shutdown-last,2026-01-30,no,Will the government shutdown last 5 days or more?
+E11,polymarket,14913329120044337099075391770190917585736819167026427717048804277930067644038,how-long-will-the-next-government-shutdown-last,2026-01-30,no,Will the government shutdown last 10 days or more?
+E11,polymarket,24953278624884077321219429584298483073707537755623062969473431153776064201196,how-long-will-the-next-government-shutdown-last,2026-02-02,no,Will the government shutdown last 6 days or more?
+E12,polymarket,58445300691676041933730351759907459829949267133578202991478511527490273779411,how-long-will-the-government-shutdown-last,2026-02-06,no,Will the government shutdown last 1 day or more?
+E12,polymarket,70683685314937179415484458019568933300492542257640602684595979335612417190247,how-long-will-the-government-shutdown-last,2026-02-06,no,Will the government shutdown last 3 days or more?
+E12,polymarket,110294076412280175958902705299541758085176549599969363499029383794732243229511,how-long-will-the-government-shutdown-last,2026-02-06,no,Will the government shutdown last 7 days or more?
+E12,polymarket,88910061113920294280095760453052618814898803334021114074664801596105175456662,how-long-will-the-government-shutdown-last,2026-02-06,no,Will the government shutdown last 14 days or more?
+E12,polymarket,114273260805479446928517595508548403191774531404916255804345684194926903679586,how-long-will-the-government-shutdown-last,2026-02-06,no,Will the government shutdown last 30 days or more?
+E12,polymarket,19109639251911267783111192945173081078157850734931562225711200154827514329147,how-long-will-the-government-shutdown-last,2026-02-09,no,Will the government shutdown last 5 days or more?
+E12,polymarket,51484290289511898398925967646360622934147083325001788992381805469013672777290,how-long-will-the-government-shutdown-last,2026-02-12,no,Will the government shutdown last 2 days or more?
+E12,polymarket,72260784102211362513200814662294788097433982034662578724170891102435290189718,how-long-will-the-government-shutdown-last,2026-02-12,no,Will the government shutdown last 4 days or more?
+E12,polymarket,1757253921526576512332102492844521557029924567890969651752140480888256462185,how-long-will-the-government-shutdown-last,2026-02-12,no,Will the government shutdown last 6 days or more?
+E12,polymarket,24868571901844282944090061469513971719308824574220637711136977176933867650930,how-long-will-the-government-shutdown-last,2026-02-12,no,Will the government shutdown last 10 days or more?
+E12,polymarket,23243370125398546456794021834963219431188307962640373722741464625720746992069,how-long-will-the-government-shutdown-last,2026-02-12,no,Will the government shutdown last 21 days or more?
+E12,polymarket,58728634783721452285010007355375447273909354503237228598882022331634515074170,how-long-will-the-dhs-shutdown-last,2026-04-16,no,Will the DHS shutdown last 100 days or more?
+E12,polymarket,49612390435441279265077417805132788901398648557504031966106213284552975114078,how-long-will-the-dhs-shutdown-last,2026-04-16,no,Will the DHS shutdown last 110 days or more?
+E12,polymarket,66410855465444279868828706000990874561710358833331670637480417197870625309411,how-long-will-the-dhs-shutdown-last,2026-04-16,no,Will the DHS shutdown last 120 days or more?
+E12,polymarket,50362805234953025098931568093846103382865782179487360233932607367939367951379,how-long-will-the-dhs-shutdown-last,2026-02-15,yes,Will the DHS shutdown last 5 days or more?
+E12,polymarket,56824552476559466796426149433715071660552762207988932610605425481042180715661,how-long-will-the-dhs-shutdown-last,2026-02-15,yes,Will the DHS shutdown last 3 days or more?
+E12,polymarket,29140440034745903098487218238284316729392310190919318492323913611279711422698,how-long-will-the-dhs-shutdown-last,2026-02-15,yes,Will the DHS shutdown last 7 days or more?
+E12,polymarket,50420425929368932377861238009475294348777684501338156252337361517823235873867,how-long-will-the-dhs-shutdown-last,2026-02-15,yes,Will the DHS shutdown last 10 days or more?
+E12,polymarket,64587992819959146298267168920638813800037212087792571402949094810113177277906,how-long-will-the-dhs-shutdown-last,2026-02-15,yes,Will the DHS shutdown last 14 days or more?
+E12,polymarket,44753283198945297267079353020147206930724578620153757848218074585976309236634,how-long-will-the-dhs-shutdown-last,2026-02-15,yes,Will the DHS shutdown last 30 days or more?
+E12,polymarket,60270620998993834650292642477223846729047023144384273842115512112456963346324,how-long-will-the-dhs-shutdown-last,2026-02-15,yes,Will the DHS shutdown last 21 days or more?
+E12,polymarket,89562538933428311281395483678782652721831815340946922279538928968854173790385,how-long-will-the-dhs-shutdown-last,2026-02-16,yes,Will the DHS shutdown last 60 days or more?
+E12,polymarket,19690382644457574388646542834945096191286188249507343222475669569182455463258,how-long-will-the-dhs-shutdown-last,2026-03-20,yes,Will the DHS shutdown last 40 days or more?
+E12,polymarket,19579583562449527399096814490897573675401457478172520352790715257006594085080,how-long-will-the-dhs-shutdown-last,2026-03-20,yes,Will the DHS shutdown last 44 days or more?
+E12,polymarket,98752038188311925774144418423845050315757505154774762071198468068985578951773,how-long-will-the-dhs-shutdown-last,2026-03-20,yes,Will the DHS shutdown last 48 days or more?
+E12,polymarket,80065249695687539484774562624790399984042107726945126064383581413989837125865,how-long-will-the-dhs-shutdown-last,2026-03-20,yes,Will the DHS shutdown last 52 days or more?
+E12,polymarket,40773392303341815172458754962638017393610725548470221860908999354167022962867,how-long-will-the-dhs-shutdown-last,2026-03-20,yes,Will the DHS shutdown last 70 days or more?
+E12,polymarket,115162901325993047612888515939268214562871543916064656347041158714557746118949,how-long-will-the-dhs-shutdown-last,2026-03-20,no,Will the DHS shutdown last 80 days or more?
+E12,polymarket,63803608277854168455595604005477687777008004323750473018382081871730684698387,how-long-will-the-dhs-shutdown-last,2026-03-20,no,Will the DHS shutdown last 90 days or more?
+E12,polymarket,91905568297558000924095375706546619976738275645754260196372163243140715069386,when-will-the-dhs-shutdown-end,2026-02-15,no,"Will the DHS shutdown end before February 16, 2026?"
+E12,polymarket,82680457084478697433555385193412978401549554087240187902109176941449115753113,when-will-the-dhs-shutdown-end,2026-02-15,no,"Will the DHS shutdown end between February 16-19, 2026?"
+E12,polymarket,28919393519955313078314240723433303750632888773020277404618886022283582719364,when-will-the-dhs-shutdown-end,2026-02-15,no,"Will the DHS shutdown end between February 20-23, 2026?"
+E12,polymarket,93419527226857080482833151223453477205719338175648534397109269190079780290201,when-will-the-dhs-shutdown-end,2026-02-15,no,"Will the DHS shutdown end between February 24-27, 2026?"
+E12,polymarket,79772959064526060339190382503716007023216654795476507493565110320842158986710,when-will-the-dhs-shutdown-end,2026-02-15,no,"Will the DHS shutdown end between February 28-March 3, 2026?"
+E12,polymarket,37762155584428713993318494226585402490785750251281358495132993138555461537269,when-will-the-dhs-shutdown-end,2026-02-15,no,"Will the DHS shutdown end between March 4-7, 2026?"
+E12,polymarket,20050422514384326815074190166366949714370823338045762944060634003487044333064,when-will-the-dhs-shutdown-end,2026-02-15,no,"Will the DHS shutdown end between March 8-11, 2026?"
+E12,polymarket,58465288720419951968490235537119238712762345864778197421992968710952282689365,when-will-the-dhs-shutdown-end,2026-02-15,no,"Will the DHS shutdown end between March 12-15, 2026?"
+E12,polymarket,80623826368695728524477615829443636430991383485868955605379769818112116653386,when-will-the-dhs-shutdown-end,2026-02-15,no,"Will the DHS shutdown end between March 16-19, 2026?"
+E12,polymarket,72796044497196314669085862186269318019058654820145363968730314556751202620354,when-will-the-dhs-shutdown-end,2026-02-15,no,"Will the DHS shutdown end between March 20-23, 2026?"
+E12,polymarket,74878001579055999977207094681904929539752611773659982215162905903996114745191,when-will-the-dhs-shutdown-end,2026-02-15,no,"Will the DHS shutdown end between March 24-27, 2026?"
+E12,polymarket,51329785460921599658220946634579480496765512820146872819280326116375705302207,when-will-the-dhs-shutdown-end,2026-02-15,no,"Will the DHS shutdown end between March 28-31, 2026?"
+E12,polymarket,7484541299090384156856309927566517173053985515132798281469067148912459159546,when-will-the-dhs-shutdown-end,2026-02-15,yes,"Will the DHS shutdown end after March 31, 2026?"
+E12,polymarket,12156719041168863930165613251004471921293039572358285743154000007660016302600,when-will-the-dhs-shutdown-end-521,2026-03-26,no,"Will the DHS shutdown end before April 1, 2026?"
+E12,polymarket,13737990621364734773697295958683913100966118826099689552943180875115814378667,when-will-the-dhs-shutdown-end-521,2026-03-26,no,"Will the DHS shutdown end between April 1-4, 2026?"
+E12,polymarket,47882156405755995767986811431541745162038101131076956920725280001424986768977,when-will-the-dhs-shutdown-end-521,2026-03-26,no,"Will the DHS shutdown end between April 5-8, 2026?"
+E12,polymarket,68677571816992421107612994129913202711143557432689835836081394872726242898027,when-will-the-dhs-shutdown-end-521,2026-03-26,no,"Will the DHS shutdown end between April 9-12, 2026?"
+E12,polymarket,54547050232499812746100460772047211888568187052364015167834033166841408366278,when-will-the-dhs-shutdown-end-521,2026-03-26,no,"Will the DHS shutdown end between April 13-16, 2026?"
+E12,polymarket,10052043236864332069568903939604550126284055852543104751676191788840331496197,when-will-the-dhs-shutdown-end-521,2026-03-26,no,"Will the DHS shutdown end between April 17-20, 2026?"
+E12,polymarket,62387578508596092490528062192639383173993736731905829608293348252718489128131,when-will-the-dhs-shutdown-end-521,2026-03-26,no,"Will the DHS shutdown end between April 21-24, 2026?"
+E12,polymarket,63854704419777160031350393622698169140729941169968825388884876174741945293024,when-will-the-dhs-shutdown-end-521,2026-03-26,no,"Will the DHS shutdown end between April 25-28, 2026?"
+E12,polymarket,29091241617256161765035344266153584174263168456536855392225044929201838975184,when-will-the-dhs-shutdown-end-521,2026-03-26,yes,"Will the DHS shutdown end between April 29-30, 2026?"
+E12,polymarket,1693280341570119941173397552621701772218442119387175508732213712828513369125,when-will-the-dhs-shutdown-end-521,2026-03-26,no,"Will the DHS shutdown end after April 30, 2026?"
+E12,polymarket,72305271270672582301657601308169221171177190349434411074066165840822055866438,when-will-the-dhs-shutdown-end-525,2026-04-17,no,Will the DHS shutdown end between April 16-19 2026?
+E12,polymarket,78218494885388051202387518537828613062196543344395577884287104930831701623345,when-will-the-dhs-shutdown-end-525,2026-04-17,no,Will the DHS shutdown end between April 20-26 2026?
+E12,polymarket,68961918692286323314342433407891753462821787841472958862330604200171153935504,when-will-the-dhs-shutdown-end-525,2026-04-17,yes,Will the DHS shutdown end between April 27-May 3 2026?
+E12,polymarket,96764520653521595389519155190858154957699441024235576824680305667594843289562,when-will-the-dhs-shutdown-end-525,2026-04-17,no,Will the DHS shutdown end between May 4-10 2026?
+E12,polymarket,60928322020723250272110483602462803386491826488372534837688044177040620932532,when-will-the-dhs-shutdown-end-525,2026-04-17,no,Will the DHS shutdown end between May 11-17 2026?
+E12,polymarket,97800528191239401144785719211878376423419317923817598896649967646209189676056,when-will-the-dhs-shutdown-end-525,2026-04-17,no,Will the DHS shutdown end between May 18-24 2026?
+E12,polymarket,17068922413263002471630002093233912251571978036265611596800610917417627298952,when-will-the-dhs-shutdown-end-525,2026-04-17,no,Will the DHS shutdown end between May 25-31 2026?
+E12,polymarket,113811783632948920003564547759993613337289411748420628133952061888359040868171,when-will-the-dhs-shutdown-end-525,2026-04-17,no,Will the DHS shutdown end between June 1-7 2026?
+E12,polymarket,67879193249935617895069978484683385696909366095871720370668583813159692666332,when-will-the-dhs-shutdown-end-525,2026-04-17,no,Will the DHS shutdown end between June 8-14 2026?
+E12,polymarket,47544262059242847398171955802126496734948585582818248028861977412725369906211,when-will-the-dhs-shutdown-end-525,2026-04-17,no,Will the DHS shutdown end between June 15-21 2026?
+E12,polymarket,19401205093469904548210927622096390772558325368036579613171410334952541567745,when-will-the-dhs-shutdown-end-525,2026-04-17,no,Will the DHS shutdown end between June 22-28 2026?
+E12,polymarket,33513270776621256257186651089858781131612350720286419090880837762919243449252,when-will-the-dhs-shutdown-end-525,2026-04-17,no,Will the DHS shutdown end between June 29-July 5 2026?
+E12,polymarket,69325647329249188747820870418931444597701530137726983372298455661605956128484,when-will-the-dhs-shutdown-end-525,2026-04-17,no,Will the DHS shutdown end between July 6-12 2026?
+E12,polymarket,11570166497570452224104089108316605139612937252050415594945590753239662636393,when-will-the-dhs-shutdown-end-525,2026-04-17,no,Will the DHS shutdown end between July 13-19 2026?
+E12,polymarket,726756507880104250438335772730979036800248252476547484935406354731132287324,when-will-the-dhs-shutdown-end-525,2026-04-17,no,Will the DHS shutdown end between July 20-26 2026?
+E12,polymarket,24839804384536372152993735208096967395620531805326444479478733700533471845778,when-will-the-dhs-shutdown-end-525,2026-04-17,no,Will the DHS shutdown end between July 27-31 2026?
+E12,polymarket,102237650151198777676038047484118467807606730358308549862435425624256915424191,when-will-the-dhs-shutdown-end-525,2026-04-17,no,Will the DHS shutdown end after July 31 2026?
