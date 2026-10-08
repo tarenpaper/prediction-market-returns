@@ -84,4 +84,29 @@ Any change to data handling after this commit (including bug fixes that change t
 and the number of observations affected. Results are reported for the pre-registered specification first.
 
 ## Deviations
-(none yet)
+No deviations from the registered design. Implementation clarifications made on 2026-10-07 while writing `src/build_panel.py`,
+before any dP-return relationship was examined (only window counts, dP distributions, return sanity and betas were inspected):
+1. Betas are estimated with an intercept; AR = r - beta * r_SPY does not subtract the intercept (section 5, "no intercept adjustment").
+2. "Contract open" in the 30-day rule is the timestamp of the contract's first hourly observation, not the metadata date.
+3. Only `role == primary` contracts enter the panel. This means E08 (annual proxies) is absent from the panel altogether, and
+   Polymarket `secondary` / `related` contracts are not used.
+4. The 12-hour carry-forward limit is applied to each snapshot independently; a window needs both snapshots non-missing.
+5. Resolution windows (the overnight window containing `lapse_start`) are generated for every event regardless of whether dP is
+   available there, since H4 uses returns only.
+6. The 2024 cluster's overlapping contracts pair the same stock window with several events' dP; event fixed effects and the
+   cluster rule in section 3 handle this, and it is flagged here so the effective sample is not overstated.
+7. Returns follow section 5 literally: raw (unadjusted) Open/Close. A dividend-adjusted column (`ret_adj`) is stored for robustness only.
+
+## Results log (appended 2026-10-07; nothing above this line was changed)
+Registered tests, run as specified (`src/h1.py`, `src/secondary.py`; outputs `h1_results.json`, `secondary_results.json`):
+- H1 (overnight, Fed share): b = -0.0035, CR1 se 0.0046, wild-cluster-bootstrap p = 0.47. Not supported.
+- H2 (DHS, E11-E13): b2 = +0.120 (wrong sign), permutation p = 0.24, Holm p = 0.71. Not supported.
+- H3 (intraday, Fed share): b = +0.0104 (wrong sign), bootstrap p = 0.76, Holm p = 1.00. Not supported.
+- H4 (resolution window, exposed minus control, shutdown n = 3 vs averted n = 9): difference in means = +0.0014 (wrong sign),
+  exact permutation p = 1.00. Not supported.
+
+Observed after the registered H4 result, then examined: the two largest per-event differences are E13 (2026-10-01; ACN +17.8%,
+EPAM +8.4%, CTSH +7.8% overnight on heavy volume) and E09 (2025-03-17; SAIC +12.5%). Neither coincides with a funding outcome.
+**Post-hoc and exploratory, not part of the registered inference, not Holm-adjusted:** excluding E09 and E13 gives
+shutdown-minus-averted = -0.0052, exact permutation p = 0.008 (n = 3 vs 7); medians on all 12 events give -0.0059, p = 0.082.
+The exclusion was chosen after seeing the registered result, so these figures are hypothesis-generating only.
