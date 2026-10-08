@@ -1,0 +1,134 @@
+[
+ {
+  "test": "H2",
+  "b1_fed": -0.00904042788079524,
+  "b2_dhs": 0.1202923999744048,
+  "p_perm_two_sided": 0.2364,
+  "n_obs": 352,
+  "n_event_windows": 44,
+  "events": [
+   "E11",
+   "E12",
+   "E13"
+  ],
+  "corr_fed_dhs_across_firms": 0.49260464831436135,
+  "perm_b2_5_95": [
+   -0.553524537732302,
+   0.14629804297409885
+  ],
+  "p_holm": 0.7092
+ },
+ {
+  "test": "H3",
+  "b": 0.010358345937804034,
+  "se_cr1": 0.03625068168509565,
+  "t": 0.28574210073580036,
+  "p_wild_cluster_bootstrap": 0.7576,
+  "p_cr1_t_Gm1": 0.7833463033657226,
+  "n_obs": 1112,
+  "n_clusters": 8,
+  "n_events": 12,
+  "ci95_cr1": [
+   -0.07536089511154351,
+   0.09607758698715158
+  ],
+  "p_holm": 1.0
+ },
+ {
+  "test": "H4",
+  "mean_diff_shutdown": -0.004539179644572373,
+  "mean_diff_averted": -0.005956973184423969,
+  "diff_in_means": 0.0014177935398515962,
+  "p_exact_perm_two_sided": 1.0,
+  "n_shutdown": 3,
+  "n_averted": 9,
+  "n_permutations": 220,
+  "per_event": [
+   {
+    "event_id": "E01",
+    "exposed": 0.00152,
+    "control": 0.00153,
+    "diff": -1e-05,
+    "shutdown": false
+   },
+   {
+    "event_id": "E02",
+    "exposed": -0.00106,
+    "control": -0.00185,
+    "diff": 0.00079,
+    "shutdown": false
+   },
+   {
+    "event_id": "E03",
+    "exposed": 0.00266,
+    "control": 0.00076,
+    "diff": 0.0019,
+    "shutdown": false
+   },
+   {
+    "event_id": "E04",
+    "exposed": -0.00414,
+    "control": -0.00324,
+    "diff": -0.0009,
+    "shutdown": false
+   },
+   {
+    "event_id": "E05",
+    "exposed": 0.00607,
+    "control": 0.00318,
+    "diff": 0.00289,
+    "shutdown": false
+   },
+   {
+    "event_id": "E06",
+    "exposed": -0.00331,
+    "control": -0.0019,
+    "diff": -0.00141,
+    "shutdown": false
+   },
+   {
+    "event_id": "E07",
+    "exposed": 0.00276,
+    "control": 0.0016,
+    "diff": 0.00116,
+    "shutdown": false
+   },
+   {
+    "event_id": "E09",
+    "exposed": 0.03548,
+    "control": 8e-05,
+    "diff": 0.0354,
+    "shutdown": false
+   },
+   {
+    "event_id": "E10",
+    "exposed": -0.00364,
+    "control": -0.00158,
+    "diff": -0.00206,
+    "shutdown": true
+   },
+   {
+    "event_id": "E11",
+    "exposed": -0.00327,
+    "control": 0.00185,
+    "diff": -0.00512,
+    "shutdown": true
+   },
+   {
+    "event_id": "E12",
+    "exposed": 0.00318,
+    "control": 0.00962,
+    "diff": -0.00644,
+    "shutdown": true
+   },
+   {
+    "event_id": "E13",
+    "exposed": 0.01873,
+    "control": 0.11216,
+    "diff": -0.09343,
+    "shutdown": false
+   }
+  ],
+  "p_holm": 1.0
+ }
+]

@@ -1,0 +1,9 @@
+ticker,group,fiscal_year,filing_date,federal_share,dhs_share,basis,evidence,notes
+CACI,exposed,FY2026 (Jun 30 2026),8/6/2026,0.956,,10-K statement,"revenues from federal government contracts ... 95.6% of total revenues (DoW 53.6%, IC 24.6%)",DHS not separately reported
+SAIC,exposed,FY2026 (Jan 30 2026),3/16/2026,0.98,,10-K statement,"98% of total revenues attributable to prime contracts with U.S. government or subcontracts (DoW 52%, Intelligence & other federal 46%)",DHS not separately reported; falls in 'other federal' 46%
+LDOS,exposed,FY2025 (Jan 2 2026),2/17/2026,0.87,,10-K statement,87% of revenues for fiscal 2025 from U.S. government contracts (Health & Civil segment = 30%),"DHS named as a customer, no % reported"
+BAH,exposed,FY2026 (Mar 31 2026),5/22/2026,,,qualitative only in text I could access,'vast majority of our revenue from ... U.S. government contracts'; VA = 10% of revenue,NOT FILLED: numeric federal % not found in accessible excerpts; DHS not reported
+PSN,exposed,FY2025 (Dec 31 2025),2/11/2026,0.51,,proxy: Federal Solutions segment share,Federal Solutions 51% of total revenue; 'U.S. government and its agencies represent substantially all' of that segment (Critical Infrastructure 49%),"Upper-bound proxy; DHS named as customer, no % reported"
+ACN,control,FY2025 (Aug 31 2025),10/10/2025,0.08,,10-K statement,Accenture Federal Services ~8% of total revenues in fiscal 2025,"DHS not mentioned; ACN fed share is not ~0, so a weak control"
+EPAM,control,FY2025 (Dec 31 2025),2/26/2026,,,not reported,no U.S. federal revenue disclosure found,"assumed negligible, unverified"
+CTSH,control,FY2025 (Dec 31 2025),2/12/2026,,,not reported,no U.S. federal revenue disclosure found,"assumed negligible, unverified"
